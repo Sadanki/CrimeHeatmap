@@ -1,0 +1,32 @@
+# Ignore build outputs
+bin/
+obj/
+out/
+
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Ignore logs
+*.log
+
+# Ignore environment configs
+*.env
+
+# Ignore node_modules for frontend
+frontend/crime-heatmap-frontend/node_modules/
+
+# Ignore dist build for frontend
+frontend/crime-heatmap-frontend/dist/
+
+# Ignore package lock if needed
+frontend/crime-heatmap-frontend/package-lock.json
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore OS files
+Thumbs.db
+.DS_Store

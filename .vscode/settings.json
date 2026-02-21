@@ -1,0 +1,3 @@
+{
+  "iis.configDir": "${workspaceFolder}\\backend\\CrimeHeatmap.API\\.vs\\CrimeHeatmap.API.slnx\\config"
+}
